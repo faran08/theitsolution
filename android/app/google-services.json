@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "409124510104",
+    "project_id": "theitsolution",
+    "storage_bucket": "theitsolution.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:409124510104:android:f87e190d5de16cf16db3ed",
+        "android_client_info": {
+          "package_name": "com.example.theitsolution"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "409124510104-j8vur3fkuabf5doupcm5fefbdj2ka4l8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAz8awI8EEif3G-euieFzQV4D1FHL6Je90"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "409124510104-j8vur3fkuabf5doupcm5fefbdj2ka4l8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
